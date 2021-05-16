@@ -1,1 +1,3 @@
 application.name=123
+config: 
+  info: "nihao "
